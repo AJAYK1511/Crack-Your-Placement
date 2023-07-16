@@ -19,6 +19,6 @@ void productArray(int arr[], int n)
 			prod[i] = left[i] * right[i];
 		for (i = 0; i < n; i++)
 			System.out.print(prod[i] + " ");
-
+            
 		return;
 	}
